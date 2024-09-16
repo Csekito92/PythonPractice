@@ -1,4 +1,4 @@
-#Playing around with two floating point numbers, first is being generated randomly and second is deriving from user input. Print formatting with different decimals.
+#Playing around with two floating point numbers, first one is being generated randomly and the second one is deriving from user input. Print formatting with different decimals.
 
 import random
 
